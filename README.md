@@ -44,7 +44,8 @@ This dashboard helps business stakeholders understand sales, profit trends, regi
 ---
 
 ## Dashboard
-![Dashboard Overview](screenshots/dashboard-overview.png)
+<img width="1183" height="677" alt="Global Sales Performance Dashboard" src="https://github.com/user-attachments/assets/70602956-f65e-451a-8b56-ec8acbf4ada8" />
+
 
 ---
 
